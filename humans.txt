@@ -1,13 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+Created by Rodrigo Parra.
 
 # TECHNOLOGY COLOPHON
 
